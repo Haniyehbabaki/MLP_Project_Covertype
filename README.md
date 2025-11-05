@@ -19,7 +19,8 @@ The dataset describes the forest cover type for each observation using cartograp
 ## 🧰 Libraries Used
 
 The following Python libraries were used in this project:
-`pandas`,`numpy`,`matplotlib`,`seaborn`,`scikit-learn`,`tensorflow` / `keras`, `ucimlrepo`,`tabulate`
+---`pandas`,`numpy`,`matplotlib`,`seaborn`,`scikit-learn`,`tensorflow` / `keras`, `ucimlrepo`,`tabulate`
+
 ---
 
 ## 🔍 Project Workflow
@@ -68,5 +69,3 @@ The following Python libraries were used in this project:
 Haniyeh Babaki
 B.Sc. Student in Computer Engineering
 Damghan university
-   ```bash
-   git clone https://github.com/Haniyehbabaki/MLP_Project_Covertype.git
